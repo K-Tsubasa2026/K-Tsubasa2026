@@ -25,26 +25,59 @@ React・TypeScript・Java（Spring Boot）・PostgreSQLを使用したWebアプ�
 ## 02 / Tech Stack
 <div align="center">
 
-<h3>Frontend</h3>
+<table>
+<tr>
+<td width="190"><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-EDEDED?style=flat&logo=html5&logoColor=black" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-EDEDED?style=flat&logo=css3&logoColor=black" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-EDEDED?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-EDEDED?style=flat&logo=typescript&logoColor=black" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-EDEDED?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Vite-EDEDED?style=flat&logo=vite&logoColor=black" alt="Vite" />
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/HTML5-EDEDED?style=flat&logo=html5&logoColor=black" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-EDEDED?style=flat&logo=css3&logoColor=black" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-EDEDED?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-EDEDED?style=flat&logo=typescript&logoColor=black" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-EDEDED?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-EDEDED?style=flat&logo=vite&logoColor=black" alt="Vite" />
-<h3>Backend &amp; Database</h3>
+<tr>
+<td><strong>Backend &amp; Database</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Java-EDEDED?style=flat&logo=openjdk&logoColor=black" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-EDEDED?style=flat&logo=springboot&logoColor=black" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PHP-EDEDED?style=flat&logo=php&logoColor=black" alt="PHP" />
+<img src="https://img.shields.io/badge/PostgreSQL-EDEDED?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+</td>
+</tr>
 
+<tr>
+<td><strong>iOS Development</strong></td>
+<td>
+<img src="https://img.shields.io/badge/SwiftUI-EDEDED?style=flat&logo=swift&logoColor=black" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/WidgetKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="WidgetKit" />
+<img src="https://img.shields.io/badge/ActivityKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="ActivityKit" />
+<img src="https://img.shields.io/badge/HealthKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="HealthKit" />
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/Java-EDEDED?style=flat&logo=openjdk&logoColor=black" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-EDEDED?style=flat&logo=springboot&logoColor=black" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PHP-EDEDED?style=flat&logo=php&logoColor=black" alt="PHP" /> <img src="https://img.shields.io/badge/PostgreSQL-EDEDED?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
-<h3>iOS Development</h3>
+<tr>
+<td><strong>Infrastructure &amp; Tools</strong></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-EDEDED?style=flat&logo=amazonwebservices&logoColor=black" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-EDEDED?style=flat&logo=docker&logoColor=black" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-EDEDED?style=flat&logo=git&logoColor=black" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat&logo=github&logoColor=black" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-EDEDED?style=flat&logo=visualstudiocode&logoColor=black" alt="VS Code" />
+</td>
+</tr>
 
+<tr>
+<td><strong>AI Tools</strong></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI-EDEDED?style=flat&logo=openai&logoColor=black" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude_Code-EDEDED?style=flat&logo=claude&logoColor=black" alt="Claude Code" />
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/SwiftUI-EDEDED?style=flat&logo=swift&logoColor=black" alt="SwiftUI" /> <img src="https://img.shields.io/badge/WidgetKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="WidgetKit" /> <img src="https://img.shields.io/badge/ActivityKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="ActivityKit" /> <img src="https://img.shields.io/badge/HealthKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="HealthKit" />
-<h3>Infrastructure &amp; Tools</h3>
-
-
-<img src="https://img.shields.io/badge/AWS-EDEDED?style=flat&logo=amazonwebservices&logoColor=black" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-EDEDED?style=flat&logo=docker&logoColor=black" alt="Docker" /> <img src="https://img.shields.io/badge/Git-EDEDED?style=flat&logo=git&logoColor=black" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat&logo=github&logoColor=black" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-EDEDED?style=flat&logo=visualstudiocode&logoColor=black" alt="VS Code" />
-<h3>AI Tools</h3>
-
-
-<img src="https://img.shields.io/badge/OpenAI-EDEDED?style=flat&logo=openai&logoColor=black" alt="OpenAI" /> <img src="https://img.shields.io/badge/Claude_Code-EDEDED?style=flat&logo=claude&logoColor=black" alt="Claude Code" />
-</div>
 
 ## 03 / Featured Work
 ### 個人開発
@@ -142,10 +175,16 @@ ECサイトのヘッダーやポップアップなどを再現。
 - PostgreSQL / Docker
 - AWSを使ったWebアプリケーションの構築・運用
 - SwiftUIを使ったiOSアプリケーション開発
+
 <div align="center">
 
-Thanks for visiting! 🐾
-<img src="https://raw.githubusercontent.com/K-Tsubasa2026/portfolio/main/public/shiba/haran2.webp" width="150" alt="笑顔の柴犬" />
+<img
+  src="https://raw.githubusercontent.com/K-Tsubasa2026/portfolio/main/public/shiba/haran2.webp"
+  width="150"
+  alt="笑顔の柴犬"
+/>
 
-Learning by building. Growing by improving.
+<p>Thanks for visiting! 🐾</p>
+
 </div>
+
