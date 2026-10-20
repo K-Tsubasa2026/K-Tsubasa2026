@@ -3,7 +3,7 @@
 <img src="./assets/typing.svg" width="620" alt="こんにちは、兼松つばさです。Welcome to my GitHub!" />
 
 <a href="https://github.com/K-Tsubasa2026/portfolio">
-  <img src="https://raw.githubusercontent.com/K-Tsubasa2026/portfolio/main/public/shiba/haran1.webp" width="230" alt="柴犬キャラクター" />
+  <img src="https://raw.githubusercontent.com/K-Tsubasa2026/portfolio/main/public/shiba/haran1.webp" width="150" alt="柴犬キャラクター" />
 </a>
 
 Frontend × Backend × iOS
@@ -23,60 +23,11 @@ React・TypeScript・Java（Spring Boot）・PostgreSQLを使用したWebアプ�
 既存のUIを再現するだけでなく、API設計・データベース連携・認証機能などにも取り組んでいます。
 
 ## 02 / Tech Stack
-<div align="center">
-
-<table>
-<tr>
-<td width="190"><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-EDEDED?style=flat&logo=html5&logoColor=black" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-EDEDED?style=flat&logo=css3&logoColor=black" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-EDEDED?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-EDEDED?style=flat&logo=typescript&logoColor=black" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-EDEDED?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Vite-EDEDED?style=flat&logo=vite&logoColor=black" alt="Vite" />
-</td>
-</tr>
-
-<tr>
-<td><strong>Backend &amp; Database</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Java-EDEDED?style=flat&logo=openjdk&logoColor=black" alt="Java" />
-<img src="https://img.shields.io/badge/Spring_Boot-EDEDED?style=flat&logo=springboot&logoColor=black" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PHP-EDEDED?style=flat&logo=php&logoColor=black" alt="PHP" />
-<img src="https://img.shields.io/badge/PostgreSQL-EDEDED?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
-</td>
-</tr>
-
-<tr>
-<td><strong>iOS Development</strong></td>
-<td>
-<img src="https://img.shields.io/badge/SwiftUI-EDEDED?style=flat&logo=swift&logoColor=black" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/WidgetKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="WidgetKit" />
-<img src="https://img.shields.io/badge/ActivityKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="ActivityKit" />
-<img src="https://img.shields.io/badge/HealthKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="HealthKit" />
-</td>
-</tr>
-
-<tr>
-<td><strong>Infrastructure &amp; Tools</strong></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-EDEDED?style=flat&logo=amazonwebservices&logoColor=black" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-EDEDED?style=flat&logo=docker&logoColor=black" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-EDEDED?style=flat&logo=git&logoColor=black" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat&logo=github&logoColor=black" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-EDEDED?style=flat&logo=visualstudiocode&logoColor=black" alt="VS Code" />
-</td>
-</tr>
-
-<tr>
-<td><strong>AI Tools</strong></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI-EDEDED?style=flat&logo=openai&logoColor=black" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Claude_Code-EDEDED?style=flat&logo=claude&logoColor=black" alt="Claude Code" />
-</td>
-</tr>
-</table>
+- **Frontend**：<img src="https://img.shields.io/badge/HTML5-EDEDED?style=flat&logo=html5&logoColor=black" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-EDEDED?style=flat&logo=css3&logoColor=black" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-EDEDED?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-EDEDED?style=flat&logo=typescript&logoColor=black" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-EDEDED?style=flat&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Vite-EDEDED?style=flat&logo=vite&logoColor=black" alt="Vite" />
+- **Backend &amp; Database**： <img src="https://img.shields.io/badge/Java-EDEDED?style=flat&logo=openjdk&logoColor=black" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-EDEDED?style=flat&logo=springboot&logoColor=black" alt="Spring Boot" /> <img src="https://img.shields.io/badge/PHP-EDEDED?style=flat&logo=php&logoColor=black" alt="PHP" /> <img src="https://img.shields.io/badge/PostgreSQL-EDEDED?style=flat&logo=postgresql&logoColor=black" alt="PostgreSQL" />
+- **iOS Development**： <img src="https://img.shields.io/badge/SwiftUI-EDEDED?style=flat&logo=swift&logoColor=black" alt="SwiftUI" /> <img src="https://img.shields.io/badge/WidgetKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="WidgetKit" /> <img src="https://img.shields.io/badge/ActivityKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="ActivityKit" /> <img src="https://img.shields.io/badge/HealthKit-EDEDED?style=flat&logo=apple&logoColor=black" alt="HealthKit" />
+- **Infrastructure &amp; Tools**： <img src="https://img.shields.io/badge/AWS-EDEDED?style=flat&logo=amazonwebservices&logoColor=black" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-EDEDED?style=flat&logo=docker&logoColor=black" alt="Docker" /> <img src="https://img.shields.io/badge/Git-EDEDED?style=flat&logo=git&logoColor=black" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat&logo=github&logoColor=black" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-EDEDED?style=flat&logo=visualstudiocode&logoColor=black" alt="VS Code" />
+- **AI Tools**： <img src="https://img.shields.io/badge/OpenAI-EDEDED?style=flat&logo=openai&logoColor=black" alt="OpenAI" /> <img src="https://img.shields.io/badge/Claude_Code-EDEDED?style=flat&logo=claude&logoColor=black" alt="Claude Code" />
 
 
 ## 03 / Featured Work
@@ -142,7 +93,7 @@ ECサイトのヘッダーやポップアップなどを再現。
 ### ペア開発
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 <strong>📱 ルーティンカレンダーアプリ</strong>
 
@@ -151,11 +102,6 @@ ECサイトのヘッダーやポップアップなどを再現。
 <code>SwiftUI</code> <code>WidgetKit</code> <code>ActivityKit</code> <code>HealthKit</code>
 
 <a href="https://github.com/K-Tsubasa2026/momuri"><img src="https://img.shields.io/badge/SOURCE_CODE-FFF0D6?style=for-the-badge&logo=github&logoColor=181717" alt="Source Code" /></a>
-</td>
-<td width="50%" valign="top">
-
-<!-- 今後のペア開発作品用スペース -->
-
 </td>
 </tr>
 </table>
